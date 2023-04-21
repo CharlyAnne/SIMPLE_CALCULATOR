@@ -1,4 +1,6 @@
 # A SIMPLE CALCULATOR
-### This repository contains codes used to build a simple calculator with CSS, HTML and JavaScriipt.
+### This repository contains codes used to build a simple calculator.
+⚡️ Valid HTML5 & CSS3\
+⚡️ JavaScript
 
-Live demo will be updated shortly.
+Live demo: **[click here](https://charly-calc.netlify.app/)**
